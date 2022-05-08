@@ -1,8 +1,0 @@
-# Project exclude paths
-/.gradle/
-/Tic-Tac-Toe with AI/task/build/
-/Tic-Tac-Toe with AI/task/out/
-/Tic-Tac-Toe with AI/task/out/production/classes/
-/Topics/Comparable/Leaderboard/out/
-/Topics/Comparable/Leaderboard/out/production/classes/
-/util/build/
